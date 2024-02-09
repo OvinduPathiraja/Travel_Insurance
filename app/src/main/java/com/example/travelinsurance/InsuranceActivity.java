@@ -20,6 +20,8 @@ public class InsuranceActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_insurance);
 
+        // Initialize textInputLayout
+        textInputLayout = findViewById(R.id.vehicle);
 
 
         boolean isNightMode = (getResources().getConfiguration().uiMode
