@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "562273666284",
+    "firebase_url": "https://kotlinproject-c2265-default-rtdb.firebaseio.com",
+    "project_id": "kotlinproject-c2265",
+    "storage_bucket": "kotlinproject-c2265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562273666284:android:24ef26c1bd27ff8bb591c9",
+        "android_client_info": {
+          "package_name": "com.example.kotlinproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAZLrlaso04jjQZ-W3wfj0gNaFIrFJpo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562273666284:android:291b252f0496a168b591c9",
+        "android_client_info": {
+          "package_name": "com.example.travelinsurance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAZLrlaso04jjQZ-W3wfj0gNaFIrFJpo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
